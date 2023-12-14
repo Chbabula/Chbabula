@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chbabula&label=Profile%20views&color=0e75b6&style=flat" alt="chbabula" /> </p>
 
-- 🔭 I’m currently Looking For Job [event-spark](https://event-spark-five.vercel.app/)
+- 🔭 I’m currently Looking For Job 
 
 - 🌱 I’m currently learning **MERN full stack developer**
 
