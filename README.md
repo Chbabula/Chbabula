@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript, React.js Node.js, Express.js, HTML,CSS, Bootstrap,Tailwind.css,materiel UI,**
 
-- 📫 How to reach me **mail@babulal786@gmail.com**
+- 📫 How to reach me **mail2babulal786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
