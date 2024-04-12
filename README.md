@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with MERN Stack full stack developer job role [Buy-and-Sell](https://buy-and-sell-black.vercel.app/)
 
-- 💬 Ask me about **JavaScript, React.js Node.js, Express.js, HTML,CSS, Bootstrap, materiel UI,**
+- 💬 Ask me about **JavaScript, React.js Node.js, Express.js, HTML,CSS, Bootstrap,Tailwind.css,materiel UI,**
 
 - 📫 How to reach me **mail@babulal786@gmail.com**
 
