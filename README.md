@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on MERN Stack Projects [Awass-Vishwa](https://awass-vishwa-fe.vercel.app/)
 
-- 🤝 I’m looking for help with MERN Stack full stack developer job role [Buy-and-Sell](https://buy-and-sell-black.vercel.app/)
+- 🤝 I’m looking for help with MERN Stack developer job role [Buy-and-Sell](https://buy-and-sell-black.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React.js Node.js, Express.js, HTML,CSS, Bootstrap,Tailwind.css,materiel UI,**
 
 - 📫 How to reach me **mail2babulal786@gmail.com**
 
-<h3 align="left">Connect with me: 981179167</h3>
+<h3 align="left">Connect with me: 7981179167</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ch-babula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ch-babula-developer" height="30" width="40" /></a>
 </p>
